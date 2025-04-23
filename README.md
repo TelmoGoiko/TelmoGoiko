@@ -16,7 +16,7 @@
 
 📫 Contacto:
 - 📧 tgoicoechea002@ikasle.ehu.eus
-
+- 💼 https://www.linkedin.com/in/telmo-goicoechea-85699b361/
 <!--
 **TelmoGoiko/TelmoGoiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
