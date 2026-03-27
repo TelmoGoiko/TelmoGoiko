@@ -1,6 +1,7 @@
 ### 👋 ¡Hola! Soy Telmo Goicoechea
 
-🎓 Estudiante de Ingeniería Informática en la UPV/EHU  
+🎓 Estudiante de Ingeniería Informática en la UPV/EHU
+🎓 Also Student in RWTH Aachen in Computer Science
 💻 Apasionado por el desarrollo web, la IA y los retos tecnológicos   
 📚 Siempre aprendiendo nuevas tecnologías y explorando nuevos lenguajes
 
